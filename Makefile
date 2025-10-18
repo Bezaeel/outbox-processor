@@ -1,5 +1,5 @@
 run:
-	@go run ./*.go
+	@go run ./src/main.go
 
 test:
 	@go test ./... -v
